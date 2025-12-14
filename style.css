@@ -197,7 +197,7 @@
   }
   
   .icon img {
-    width: 30px;
+    width: 25px;
     height: 30px;
   }
   
@@ -393,4 +393,5 @@
     /* SECTION 3: Contact */
     .contact-section {
       padding: 0 20px;}
+
   }
